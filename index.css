@@ -1,0 +1,53 @@
+body{
+    background-color: rgba(135, 211, 234, 0.51);
+}
+.smallbox{
+    background-color: aliceblue;
+    text-align: center;
+    padding: 40px 10px;
+    margin: 30px 0px;
+    
+}
+i{
+    color: rgb(12, 133, 173);
+}
+.cont{
+    margin: 15px 0px;
+}
+a{
+    border-bottom: 2px solid blue;
+}
+.box{
+    padding: 60px 5px;
+}
+.secondbox{
+    background-color: white;
+    text-align: center;
+    padding: 40px 10px;
+    margin: 30px 0px;
+}
+.thirdbox{
+    background-color: white;
+    text-align: center;
+    padding: 40px 10px;
+    margin: 30px 0px;
+}
+.fourthbox{
+    background-color: white;
+    padding: 40px 10px;
+    margin: 30px 0px;
+    text-align: center;
+
+}
+.fifthbox{
+    background-color: white;
+    text-align: center;
+    padding: 40px 10px;
+    margin: 30px 0px;
+}
+.sixthbox{
+    background-color: white;
+    text-align: center;
+    padding: 40px 10px;
+    margin: 30px 0px;
+}
